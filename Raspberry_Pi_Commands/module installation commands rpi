@@ -1,0 +1,16 @@
+installing putty on raspberry pi.
+	sudo apt-get install putty -y
+
+inatalling virtual keyboard.
+	sudo apt-get install matchbox-keyboard
+
+installing the latest updates on raspberry pi.
+	sudo apt-get update
+	sudo apt-get upgrade
+	sudo apt-get install rpi-update
+
+installing ssh to get a remote login to command line.
+
+installing firmata library for python and its modules by pip module manager. 
+	sudo apt-get install python-serial mercurial
+	pip install firmata

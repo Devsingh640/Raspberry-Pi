@@ -1,5 +1,5 @@
 import RPi.GPIO as GPIO    # Loading the GPIO library.
-imoort time
+import time
 
 GPIO.setmode(GPIO.BOARD)   
 

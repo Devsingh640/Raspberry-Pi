@@ -87,7 +87,7 @@ sudo grep -r word /	(search word with super user command.)
 
 sudo 	(super user)
 
-fconfig	(finding the ip address of the device.)
+ifconfig	(finding the ip address of the device.)
 
 ctrl+c (exit.)		
 

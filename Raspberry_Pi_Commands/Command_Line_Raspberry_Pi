@@ -21,7 +21,7 @@ rmdir -r master	(removing a un-empty directory called master at current location
 mkdir ../master (creating a empty directory called master at one up location from present one.)
 rmdir ../master (removing a directory called master at one up location from present one.)
 rmdir -r ../master (removing a un-empty directory called master at one up location from present one.)
-nano	(is used when you have to work with a file.)
+nano	(is a text editor used when you have to work with a file.)
 nano masterfile.txt	(will open a file if not present then will help creating a text file with file extention .txt similar for other extentions.)
 
 
